@@ -1,6 +1,6 @@
 <h2>
   <img src="ezgif.com-gif-maker.gif" width="50" style="vertical-align: middle; margin-right: 10px;">
-  Seja bem-vindo!
+  Pterodactyls...
 </h2>
 
 <!--
@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <style>
-p {
-  background-image: "giphy-ezgif.com-gif-maker.gif";
-}
-</style>
 
 <div align="center">
 <img src="giphy-ezgif.com-gif-maker.gif" width="600">
