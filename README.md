@@ -1,5 +1,4 @@
-<h2>Seja bem-vindo!</h2> 
-<img src="ezgif.com-gif-maker.gif" width="200">
+<h2>Seja bem-vindo!</h2> <img src="ezgif.com-gif-maker.gif" width="100">
 
 <!--
 **Ntzzin/Ntzzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
