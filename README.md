@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 <img src="giphy-ezgif.com-gif-maker.gifhttps://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXM4eW1mb3NhNW54MWtrNmx6ZnR3dGxwNjlzdTZtaTZ0Y3lxcWFjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="600">
 
 <!--
 **Ntzzin/Ntzzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
