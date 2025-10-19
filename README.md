@@ -1,5 +1,5 @@
 <h2>
-  <img src="ezgif.com-gif-maker.gif" width="50" style="vertical-align: middle; margin-right: 10px;">
+  <img src="ezgif.com-gif-maker.gif" width="85" style="vertical-align: middle; margin-right: 10px;">
   Pterodactyls...
 </h2>
 
